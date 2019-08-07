@@ -1,0 +1,25 @@
+#Maven
+target/
+project/
+.classpath
+
+#Scala
+*.class
+
+#Mac
+.DS_Store
+
+#Intellij
+.idea/
+*.iml
+*.iws
+
+#Log
+.log
+*.log
+**/*.log
+
+
+#Testing Databases
+metastore_db/
+spark-warehouse/
